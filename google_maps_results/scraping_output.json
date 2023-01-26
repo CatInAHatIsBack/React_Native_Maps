@@ -1,0 +1,97 @@
+[
+    {
+        "lat": "38.9009792",
+        "long": "-77.5687683",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipO6iB747ch3Y7bXjlEmny6Jtk-wak-Wt6_pOL8J=w408-h544-k-no",
+        "title": " Taberna del Alabardero  ",
+        "intro": " Refined Spanish cuisine & extensive wine list served in an opulent space with an outdoor patio. ",
+        "rating": "4.5",
+        "num_reviews": "931 reviews",
+        "address": "1776 I St NW, Washington, DC 20006, United States",
+        "image": "./assets/1.jpeg"
+    },
+    {
+        "lat": "38.7914407",
+        "long": "-78.1354826",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNq24B80mwiFAsu8meXF0938LtXfvOP-d58kUCR=w408-h305-k-no",
+        "title": " Chick-fil-A  ",
+        "intro": " Fast-food chain serving chicken sandwiches & nuggets along with salads & sides. ",
+        "rating": "4.5",
+        "num_reviews": "1,279 reviews",
+        "address": "5015 Wellington Rd, Gainesville, VA 20155, United States",
+        "image": "./assets/2.jpeg"
+    },
+    {
+        "lat": "38.5839208",
+        "long": "-77.8573801",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOtdGp0V8RXCsX_dioKP-hQCUg4_ys4MrFrYMW6=w408-h544-k-no",
+        "title": " Montclair Family Restaurant  ",
+        "intro": " Diner staples, including omelets, burgers & Greek specialties, served in a bright, low-key setting. ",
+        "rating": "4.4",
+        "num_reviews": "1,781 reviews",
+        "address": "17001 Dumfries Rd, Montclair, VA 22025, United States",
+        
+        "image": "./assets/3.jpeg"
+
+    },
+    {
+        "lat": "38.5839208",
+        "long": "-77.8573801",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipMx2jkAkRIxeA_TJbrj5WUxOEl95sGACrOByCur=w426-h240-k-no",
+        "title": " Bob Evans  ",
+        "intro": " Casual chain started on an Ohio farm & known for hearty family-style meals & a country vibe. ",
+        "rating": "4.1",
+        "num_reviews": "1,174 reviews",
+        "address": "10830 Promenade Ln, Manassas, VA 20109, United States",
+        
+        "image": "./assets/4.jpeg"
+    },
+    {
+        "lat": "38.8867958",
+        "long": "-77.9701938",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipOJckB9j9qzLmZJL8f5xHFYmIxZsJdnEYHGZMsS=w426-h240-k-no",
+        "title": " Bob O's Restaurant & Bar  ",
+        "intro": " Casual eatery/sports bar with traditional American offerings & happy-hour specials. ",
+        "rating": "3.9",
+        "num_reviews": "95 reviews",
+        "address": "4335 Chantilly Shopping Center, Chantilly, VA 20151, United States",
+
+        "image": "./assets/5.jpeg"
+    },
+    {
+        "lat": "38.8867958",
+        "long": "-77.9701938",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPML_djJ3TUGnjV2oOELLGuPYNLMVY-7RYpJPb2=w408-h306-k-no",
+        "title": " Spartans Family Restaurant  ",
+        "intro": " Casual, diner-style storefront restaurant serving up Greek favorites plus house wine & beer. ",
+        "rating": "4.5",
+        "num_reviews": "751 reviews",
+        "address": "9542 Burke Rd, Burke, VA 22015, United States",
+
+        "image": "./assets/6.jpeg"
+    },
+    {
+        "lat": "38.8867958",
+        "long": "-77.9701938",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipNhFClr_uBnKSji8MXF4OSGMop6SWfHxaJXDeGi=w408-h306-k-no",
+        "title": " Milano's Family Restaurant  ",
+        "intro": " Casual restaurant offering souvlaki & moussaka plus other Greek choices, as well as pizza & pasta. ",
+        "rating": "4.6",
+        "num_reviews": "390 reviews",
+        "address": "6230 Rolling Rd g, Springfield, VA 22152, United States",
+
+        "image": "./assets/7.jpeg"
+    },
+    {
+        "lat": "38.8867958",
+        "long": "-77.9701938",
+        "image_link": "https://lh5.googleusercontent.com/p/AF1QipPnk88PYoBWPk8VRCj1LindbO9TDS6w-JNq_B2s=w426-h240-k-no",
+        "title": " Yorkshire Restaurant  ",
+        "intro": " Down-to-earth, family-run diner offering classic American eats, including breakfast. ",
+        "rating": "4.7",
+        "num_reviews": "1,523 reviews",
+        "address": "7537 Centreville Rd, Manassas, VA 20111, United States",
+
+        "image": "./assets/8.jpeg"
+    }
+]
